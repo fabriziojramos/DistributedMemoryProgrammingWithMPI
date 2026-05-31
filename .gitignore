@@ -1,0 +1,11 @@
+# Compilados
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# VS Code
+.vscode/
+
+# Carpeta de build
+build/
